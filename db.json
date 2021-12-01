@@ -2,19 +2,19 @@
     "employees": [
         {
             "name": "jhon",
-            "idn": "2145",
+            "employeeid": "2145",
             "project": "it",
             "skills": "js"
         },
         {
             "name": "sai",
-            "idn": "2485",
+            "employeeid": "2485",
             "project": "bu",
             "skills": "html"
         },
         {
             "name": "test1",
-            "idn": "2150",
+            "employeeid": "2150",
             "project": "hr",
             "skills": "css"
         }
