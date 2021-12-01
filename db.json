@@ -1,22 +1,22 @@
-[
 {
-    "name":"jhon",
-    "idn":"2145",
-    "project":"it",
-    "skills":"js"
-},
-{
-    
-    "name":"sai",
-    "idn":"2485",
-    "project":"bu",
-    "skills":"html"
-},
-{
-"name":"test1",
-"idn":"2150",
-"project":"hr",
-"skills":"css"
+    "employees": [
+        {
+            "name": "jhon",
+            "idn": "2145",
+            "project": "it",
+            "skills": "js"
+        },
+        {
+            "name": "sai",
+            "idn": "2485",
+            "project": "bu",
+            "skills": "html"
+        },
+        {
+            "name": "test1",
+            "idn": "2150",
+            "project": "hr",
+            "skills": "css"
+        }
+    ]
 }
-
-]
